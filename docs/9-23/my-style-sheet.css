@@ -1,0 +1,8 @@
+li {
+    background-color: forestgreen;
+}
+
+#main-header:hover::after {
+    content: "Spoooky";
+    background-color: coral;
+}
