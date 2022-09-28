@@ -1,0 +1,27 @@
+body {
+    background: black;
+    font-size: 2em;
+    text-align: center;
+    width: 700px;
+ }
+ 
+h1 {
+    background: blue;
+    line-height: 60px;
+ }
+ 
+ nav {
+    background: red;
+    line-height: 100px;
+ }
+ 
+ section {
+    background: green;
+    line-height: 90px;
+ }
+ 
+ footer {
+    background: purple;
+    line-height: 40px;
+ }
+ 
