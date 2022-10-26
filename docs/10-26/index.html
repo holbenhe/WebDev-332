@@ -22,10 +22,10 @@
         //we can use .ready instead of window.onload
         $(document).ready(function () {
             //#3 create a JQuery object by passing the JQuery function a selected DOM node
-
+            var $container = jQuery(document.getElementById("container"));
 
             //#4 we can use a "shorthand" version of this with $()!
-
+            var $containerToo = $("#container");
 
             //#5 JQuery object has access to JQuery specific methods and selectors!
             //we can select DOM elements (as seen in #4)
